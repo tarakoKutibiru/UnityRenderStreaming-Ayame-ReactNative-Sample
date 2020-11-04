@@ -1,5 +1,7 @@
 # UnityRenderStreaming-Ayame-ReactNativeSample
 
+![image](https://github.com/tarakoKutibiru/UnityRenderStreaming-Ayame-ReactNative-Sample/blob/image/Image/b.gif?raw=true)
+
 # これは何
 
 [UnityRenderStreaming-Ayame-Sample](https://github.com/tarakoKutibiru/UnityRenderStreaming-Ayame-Sample)で送信された映像の受信を行うReact Native製のアプリケーションです。
