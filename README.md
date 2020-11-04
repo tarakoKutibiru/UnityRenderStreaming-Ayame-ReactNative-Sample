@@ -60,3 +60,9 @@ npx react-native run-android
 cd HelloAyame/android
 ./gradlew clean
 ```
+
+# Discord
+
+UnityでAyameを利用する人のためのコミュニティを作ってみました。私自身がサポートする可能性は低いですが、開発者同士の議論の場として使って頂けると嬉しいです。
+
+[Discord](https://discord.gg/wGSG6SjkPA)
